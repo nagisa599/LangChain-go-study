@@ -8,8 +8,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/nagisa599/nislab_chatBot/constants"
-	"github.com/nagisa599/nislab_chatBot/utils"
+	"github.com/nagisa599/LangChain-go-study/constants"
+	"github.com/nagisa599/LangChain-go-study/utils"
 	"github.com/sashabaranov/go-openai"
 )
 

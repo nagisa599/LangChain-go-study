@@ -1,4 +1,4 @@
-module github.com/nagisa599/nislab_chatBot
+module github.com/nagisa599/LangChain-go-study
 
 go 1.22.4
 
